@@ -1,0 +1,12 @@
+{
+  "physics_mae": 15.248959960358082,
+  "ml_mae": 1.343921109588067,
+  "hybrid_mae": 5.4452115928791205,
+  "final_mae": 5.449327647006515,
+  "total_water_liters": 365156.23697342654,
+  "fc_violations_prevented": 2,
+  "under_irrigation_rate": 0.38095238095238093,
+  "over_irrigation_rate": 0.3333333333333333,
+  "num_features": 87,
+  "num_test_samples": 21
+}

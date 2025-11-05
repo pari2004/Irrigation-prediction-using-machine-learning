@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hybrid Irrigation Prediction Model
 
 This project implements a hybrid irrigation prediction model that combines a physics-based model with a machine learning model to provide accurate and reliable irrigation recommendations.
@@ -33,3 +34,6 @@ python train_model.py --compare-models
 ## Prediction
 
 The prediction logic is integrated into the training script and is executed automatically after the model is trained. The example predictions are displayed in the console.
+=======
+# Irrigation-prediction-using-machine-learning
+>>>>>>> 553b04b998a956eba897e300f73824bdef120da1
